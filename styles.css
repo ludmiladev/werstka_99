@@ -1,3 +1,11 @@
 p{
     color: blueviolet;
 }
+
+p {
+    color: rgb(255, 236, 114);
+}
+
+p {
+    color: #ff0000;
+}
