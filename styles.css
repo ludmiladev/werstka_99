@@ -9,10 +9,26 @@ p {
 p {
     color: #ff0000;
     width: 300px;
-    text-align: center;
+    text-align: centerь;
 }
 
 td {
     width: 200px;
     height: 100px;
+}
+
+h2 {
+    font-weight: normal;
+    font-style: italic;
+}
+p {
+    font-weight: bold;
+}
+
+td {
+    font-weight: bold;
+}
+
+th{
+    font-weight: normal;
 }
